@@ -1,0 +1,10 @@
+{
+  "name": "newleague",
+  "version": "1.0.0",
+  "description": "making new league",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
